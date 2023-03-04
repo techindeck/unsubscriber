@@ -1,0 +1,30 @@
+{
+  "author": "techindeck",
+  "bugs": {
+    "url": "https://github.com/techindeck/unsubscriber/issues"
+  },
+  "description": "Unsubscriber for RxJS subscription to unsubscribe",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "es2015": "dist/es2015/index.js",
+  "homepage": "https://github.com/techindeck/unsubscriber#readme",
+  "keywords": [
+    "RxJS unsubscribe",
+    "Angular unsubscribe"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "maintainers": [
+    "Amit Das"
+  ],
+  "name": "unsubscriber",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techindeck/unsubscriber.git"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "version": "1.0.0"
+}
